@@ -4,3 +4,5 @@ data/test.mp4
 *.swp
 .DS_STORE
 messinAround
+references.txt
+.ipynb_checkpoints
