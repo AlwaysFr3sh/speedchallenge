@@ -28,6 +28,13 @@ another approach
 I read or heard something, somewhere about something called a "Depth Net", for depth estimation, which might be a better 
 approach for this problem 
 
+References
+------
+
+I read ryanchesler's attempt at this challenge which can be found here, before attempting my own
+https://github.com/ryanchesler/comma-speed-challenge/blob/master/data_pipeline.ipynb
+
+
 readme from forked repo with data below |
                                         V
 
